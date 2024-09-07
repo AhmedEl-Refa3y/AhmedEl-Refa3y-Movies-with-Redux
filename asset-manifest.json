@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movies-with-Redux/static/css/main.55248135.css",
+    "main.js": "/Movies-with-Redux/static/js/main.cfa82631.js",
+    "index.html": "/Movies-with-Redux/index.html",
+    "main.55248135.css.map": "/Movies-with-Redux/static/css/main.55248135.css.map",
+    "main.cfa82631.js.map": "/Movies-with-Redux/static/js/main.cfa82631.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55248135.css",
+    "static/js/main.cfa82631.js"
+  ]
+}
